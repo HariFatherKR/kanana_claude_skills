@@ -3,3 +3,9 @@ node_modules/
 .env.local
 .DS_Store
 *.log
+
+# 개인 숙제 데이터 (checklist.md.example을 복사하여 사용)
+plugins/kanana/skills/kanana_homework/checklist.md
+
+# Claude Code 로컬 설정
+.claude/

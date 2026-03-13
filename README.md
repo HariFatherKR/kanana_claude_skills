@@ -105,10 +105,12 @@ Claude Code에서 마켓플레이스를 먼저 등록합니다:
 
 ## Contributing
 
+기여를 환영합니다! 자세한 내용은 [CONTRIBUTING.md](CONTRIBUTING.md)를 참고해주세요.
+
 1. 레포지토리 포크
-2. 브랜치 생성
-3. 레퍼런스 문서 개선 또는 새 데이터 추가
-4. PR 제출
+2. 브랜치 생성 (`git checkout -b feature/새로운-기능`)
+3. 레퍼런스 문서 개선 또는 새 스킬 추가
+4. PR 제출 (PR 템플릿이 자동으로 제공됩니다)
 
 ## License
 
