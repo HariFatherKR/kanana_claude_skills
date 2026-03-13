@@ -1,0 +1,24 @@
+{
+  "name": "kanana-plugins",
+  "owner": {
+    "name": "Kanana Skills",
+    "email": "your-email@example.com"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for Kanana Ambassador SNS Hub",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "kanana",
+      "source": "./plugins/kanana",
+      "description": "카나나 앰배서더 SNS 허브 도우미 (사이트 구조, API, 앰배서더 데이터, UI 컴포넌트)",
+      "version": "1.0.0",
+      "author": {
+        "name": "Kanana Skills"
+      },
+      "keywords": ["kanana", "ambassador", "kakao", "sns-hub", "rag"],
+      "category": "integration"
+    }
+  ]
+}
