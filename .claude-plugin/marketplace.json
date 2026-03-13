@@ -12,7 +12,7 @@
     {
       "name": "kanana",
       "source": "./plugins/kanana",
-      "description": "카나나 앰배서더 SNS 허브 도우미 (사이트 구조, API, 앰배서더 데이터, UI 컴포넌트)",
+      "description": "카나나 스킬셋 - 앰배서더 SNS 허브 도우미 등 카나나 관련 스킬 모음",
       "version": "1.0.0",
       "author": {
         "name": "Kanana Skills"

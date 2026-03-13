@@ -1,5 +1,5 @@
 ---
-name: kanana
+name: kanana_ambassador
 description: 카나나 앰배서더 SNS 허브(kanana.it.com)에 대한 RAG 기반 지식을 제공합니다. 사이트 구조, API, 앰배서더 데이터, UI 컴포넌트 관련 질문에 사용하세요.
 ---
 
